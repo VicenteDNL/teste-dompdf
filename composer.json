@@ -1,0 +1,17 @@
+{
+    "name": "danilosaraivavicente/teste-dompdf",
+    "autoload": {
+        "psr-4": {
+            "Danilosaraivavicente\\TesteDompdf\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Danilo Saraiva Vicente",
+            "email": "danilo.vicente@tonolucro.com.br"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "2.0.1"
+    }
+}
